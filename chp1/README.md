@@ -28,7 +28,8 @@ follow these steps:
 
 1. Open a terminal or command prompt.
 2. Navigate to the directory the repository was cloned in, then navigate to the folder containing `main.py` and `MontanaCounties.csv`.
-   ```bash
+   
+    ```bash
    cd your_desired_directory/chp1
    ```
 Once you are within this directory run the following command in your terminal:
